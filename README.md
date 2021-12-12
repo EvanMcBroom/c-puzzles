@@ -1,6 +1,6 @@
 # C Puzzles
 
-These are C puzzles that I made for a [CTF](https://ctftime.org/) club meeting at my university. The goal of each puzzle is to provide the correct input for the program to output *You solved it!*. You may modify the source code to assist you in understanding what the code is doing, but do not introduce print statements, and do not use a debugger or a disassembler.
+These are C puzzles that were made for an undergraduate [CTF](https://ctftime.org/) club meeting. The goal of each puzzle was to provide the correct input for the program to output *You solved it!*. You may modify the source code to assist you in understanding what the code is doing, but do not introduce print statements, and do not use a debugger or a disassembler.
 
 ### Links
 
