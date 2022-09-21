@@ -23,7 +23,7 @@ int main() {
         case  13:    four:   check += 13;    break;
         case  17:            check += 17;    goto three;
         case  19:    five:   check += 19;    break;
-                } while(--loop>0);
+        } while(--loop>0);
 
         scanf("%llu", &guess);
         if(guess == check)
